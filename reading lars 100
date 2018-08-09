@@ -18,3 +18,4 @@ colnames(dat) <- c("Year_of_data", "Respondent_ID", "Agency_Code", "Type_of_Loan
 write.csv2(dat, "xao.csv", row.names = FALSE)
 
 sum(delimiters)
+gdfgdf
